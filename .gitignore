@@ -160,4 +160,8 @@ cython_debug/
 #.idea/
 
 dataset*
+tokenized*
 *.csv
+*.png
+*.log
+*.zip
